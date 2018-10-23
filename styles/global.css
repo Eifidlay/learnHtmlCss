@@ -1,7 +1,6 @@
 body {
     font-size: 16px;
-    font-family: 'Mali';
-    font-weight: 400;
+    font-family: 'Mali-Regular', cursive;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -15,6 +14,6 @@ section:nth-of-type(odd) {
 
 h3 {
     font-size: 40px;
-    font-weight: 700;
+    font-family: 'Mali-Bold', cursive;
     text-transform: uppercase;
 }

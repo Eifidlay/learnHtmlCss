@@ -1,6 +1,13 @@
 @font-face {
-    font-family: "Mali";
-    src: url("../fonts/Mali-Bold.ttf ") format("ttf");
-    font-weight: normal;
+    font-family: "Mali-Bold";
+    src: url("../fonts/Mali-Bold.woff ") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mali-Regilar";
+    src: url("../fonts/Mali-Regular.woff ") format("woff");
+    font-weight: 400;
     font-style: normal;
 }
