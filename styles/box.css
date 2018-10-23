@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    padding: 20px;
+    background-color: darkblue;
+}
+
+.box-center {
+    justify-content: center;
+}
