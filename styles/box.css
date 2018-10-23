@@ -7,3 +7,12 @@
 .box-center {
     justify-content: center;
 }
+
+.box-reverse {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.box-across-the-line .square {
+    width: 100%;
+}
